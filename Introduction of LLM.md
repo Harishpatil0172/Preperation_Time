@@ -28,3 +28,14 @@
 
 
 ### 10. How do Large Language Models handle the problem of context understanding in natural language processing tasks?
+
+
+- Item 1
+- Item 2
+  - Subitem 1
+  - Subitem 2
+1. First item
+2. Second item
+
+[Link Text](https://example.com)
+![Image Alt Text](image.jpg)
